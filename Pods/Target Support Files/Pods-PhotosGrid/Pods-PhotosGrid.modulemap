@@ -1,0 +1,6 @@
+framework module Pods_PhotosGrid {
+  umbrella header "Pods-PhotosGrid-umbrella.h"
+
+  export *
+  module * { export * }
+}
